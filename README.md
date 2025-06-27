@@ -1,6 +1,7 @@
 # dsa
 
 https://leetcode.com/problems/count-the-number-of-inversions/description/
+https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/post-solution/?submissionId=1678089087
 
 
 1. Understand Core DSA Concepts & Patterns
