@@ -6,6 +6,8 @@ https://leetcode.com/problems/count-the-number-of-inversions/description/
 https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/post-solution/?submissionId=1678089087
 
 
+https://leetcode.com/problems/maximum-width-of-binary-tree/
+
 1. Understand Core DSA Concepts & Patterns
 Most DSA problems fall under specific patterns. Mastering these patterns will help you solve problems efficiently.
 
