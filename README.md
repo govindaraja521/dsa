@@ -8,6 +8,8 @@ https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/post-sol
 
 https://leetcode.com/problems/maximum-width-of-binary-tree/
 
+https://takeuforward.org/plus/dsa/binary-trees/faqs/count-total-nodes-in-a-complete-bt
+
 1. Understand Core DSA Concepts & Patterns
 Most DSA problems fall under specific patterns. Mastering these patterns will help you solve problems efficiently.
 
