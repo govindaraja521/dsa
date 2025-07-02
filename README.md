@@ -12,6 +12,7 @@ https://takeuforward.org/plus/dsa/binary-trees/faqs/count-total-nodes-in-a-compl
 
 https://takeuforward.org/plus/dsa/problems/bst-iterator
 https://leetcode.com/problems/recover-binary-search-tree/description/
+https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/
 
 1. Understand Core DSA Concepts & Patterns
 Most DSA problems fall under specific patterns. Mastering these patterns will help you solve problems efficiently.
