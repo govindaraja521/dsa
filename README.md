@@ -14,6 +14,7 @@ https://takeuforward.org/plus/dsa/problems/bst-iterator
 https://leetcode.com/problems/recover-binary-search-tree/description/
 https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/
 https://takeuforward.org/plus/dsa/problems/largest-bst-in-binary-tree
+https://leetcode.com/problems/delete-node-in-a-bst/description/
 
 
 1. Understand Core DSA Concepts & Patterns
